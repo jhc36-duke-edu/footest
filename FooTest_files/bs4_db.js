@@ -1,7 +1,6 @@
 /**
  * Here are is the JS to make set the focus on the active tab.
  */
-
  $(document).ready(function() {
 
   jQuery('.nav-link').each(function() {
